@@ -1,16 +1,16 @@
-### Olá! 👋
+### Olá Brasil! 👋
 
-> ## O que significa contribuir
-> 
-> Se você é um novo contribuidor open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
->
-> Gostaria de falar sobre algum assunto ou transmitir conhecimento com um workshop?
-> 
-> # [QUERO CONTRIBUIR](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
->
-> ---
+<center>
+
+### Gostaria de falar sobre algum assunto ou
+### transmitir conhecimento com um workshop?
+
+## [Quero contribuir compartilhando conhecimento](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
+
 
 ![Hacktoberfest Brasil 2020](design/images/banner-420x466.svg)
+
+</center>
 
 <!--
 **hacktoberfestbrasil/hacktoberfestbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
