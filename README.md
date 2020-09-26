@@ -1,18 +1,17 @@
 ### Olá Brasil! 👋
 
-<button
-  href="https://github.com/hacktoberfestbrasil/2020/issues/new/choose"
-  style="width: 300px; height: 120px;border: none;background: #072540;color: #93c2db;cursor: pointer;padding: 0;position: relative;line-height: 120px;font-size: 32px;font-weight: bold;transition: background 200ms ease-in-out, color 200ms ease-in-out;font-family: 'Proxima Nova', sans-serif;">Quero contribuir
-<svg width="320px" height="140px" viewBox="0 0 320 140">
-
-  <path d="M10,10 l300,0 0,120 -300,0 0, -120"></path>
-  
-</svg>
-</button>
+> ## O que significa contribuir
+> 
+> Se você é um novo contribuidor open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
+>
+> Gostaria de falar sobre algum assunto ou transmitir conhecimento com um workshop?
+> 
+> # [QUERO CONTRIBUIR](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
+>
+> ---
 
 
 ![Hacktoberfest Brasil 2020](design/images/banner-420x466.svg)
-
 
 <!--
 **hacktoberfestbrasil/hacktoberfestbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
