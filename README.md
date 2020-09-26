@@ -1,4 +1,14 @@
-### Olá Brasil! 👋
+### Olá! 👋
+
+> ## O que significa contribuir
+> 
+> Se você é um novo contribuidor open source, o processo pode ser intimidador. Como você encontra o projeto certo? E se você não souber codificar? E se algo der errado?
+>
+> Gostaria de falar sobre algum assunto ou transmitir conhecimento com um workshop?
+> 
+> # [QUERO CONTRIBUIR](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
+>
+> ---
 
 ![Hacktoberfest Brasil 2020](design/images/banner-420x466.svg)
 
