@@ -1,16 +1,14 @@
 ### Olá Brasil! 👋
 
-<center>
-
 ### Gostaria de falar sobre algum assunto ou
 ### transmitir conhecimento com um workshop?
 
-## [Quero contribuir compartilhando conhecimento](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
+## [Quero me inscrever](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online)
+
+## [Quero me apresentar](https://github.com/hacktoberfestbrasil/2020/issues/new/choose)
 
 
 ![Hacktoberfest Brasil 2020](design/images/banner-420x466.svg)
-
-</center>
 
 <!--
 **hacktoberfestbrasil/hacktoberfestbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
