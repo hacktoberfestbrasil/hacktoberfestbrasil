@@ -3,41 +3,27 @@
 
 ![Hacktoberfest](talks/hacktoberfest.svg)
 
-<center>
-
-## [Faça sua incrição](https://organize.mlh.io/participants/events/4256-hacktoberfest-brasil-online) para o [Hacktoberfest Brasil 2020](https://github.com/hacktoberfestbrasil/2020)
-
-</center>
-
 ---
 
-![Yanaga](talks/yanaga.svg)
+Assista o evento no Youtube:
 
----
+### Live do dia 17/10
+https://youtu.be/B1cc706vhHs?t=256
 
-![Américo Neto](talks/americo.svg)
-
----
-
-![Eduardo](talks/eduardo.svg)
-
----
-
-![William Grasel](talks/will.svg)
-
----
-
-![Elton Minetto](talks/eminetto.svg)
-
----
-
-![Alvaro Neto](talks/alvaro.svg)
-
-
----
-
-<center>
-
-![Hacktoberfest 2020](design/images/banner-420x466.svg)
-
-</center>
+### Palestras do dia 31/10
+- Alvaro Neto: Po-Ui https://youtu.be/dEENiQ3y1A4
+    A jornada da criação de um Design System Open Source
+- William Grasel https://youtu.be/i1syrPOr-Ak
+    Publicando projetos open source com JavaScript
+- Américo Neto https://youtu.be/NNDx5ncUES4
+    Automatizando a publicação de pacotes com Semantic release
+- Eduardo Villas Boas https://youtu.be/DppTBLKHs50
+    Design e arquitetura voltada para testes
+- Flavio Correa https://youtu.be/86AhqDu1kJg
+    NVDA, um leitor de tela gratuito, de código aberto e acessível globalmente para cegos e deficientes visuais.
+- Sebastian Ferrari https://youtu.be/Vo0UT8SysVs
+    Como o Open Source pode contribuir para a cultura das empresas
+- Elton Minetto https://youtu.be/pUl1eTTCcc4
+    Arquitetura de software e a Clean Architecture
+- Edson Yanaga https://youtu.be/uBPJup0zF-8
+    Grandes empresas no mercado Open Source (Painel)
